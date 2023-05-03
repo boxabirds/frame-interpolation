@@ -1,5 +1,5 @@
 # Docker base image: `gcr.io/deeplearning-platform-release/tf2-gpu.2-6:latest`
-tensorflow==tensorflow >= 2.0.0, < 3.0.0
+tensorflow >= 2.0.0, < 3.0.0
 tensorflow-datasets==4.4.0
 tensorflow-addons==0.15.0
 absl-py==0.12.0
